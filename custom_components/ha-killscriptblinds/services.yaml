@@ -3,7 +3,7 @@
 set_absolute_position:
   target:
     entity:
-      integration: killscriptblinds
+      integration: ha-killscriptblinds
       domain: cover
   fields:
     absolute_position:
