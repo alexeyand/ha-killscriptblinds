@@ -2,7 +2,7 @@
 
 from homeassistant.const import Platform
 
-DOMAIN = "motion_blinds"
+DOMAIN = "killscriptblinds"
 MANUFACTURER = "KillScript Motion Blinds"
 DEFAULT_GATEWAY_NAME = "KillScript Motion Blinds Gateway"
 
