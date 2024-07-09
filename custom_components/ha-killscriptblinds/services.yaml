@@ -3,7 +3,7 @@
 set_absolute_position:
   target:
     entity:
-      integration: motion_blinds
+      integration: killscriptblinds
       domain: cover
   fields:
     absolute_position:
