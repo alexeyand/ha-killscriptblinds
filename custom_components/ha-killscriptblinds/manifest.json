@@ -1,6 +1,6 @@
 {
-  "domain": "killscriptblinds",
-  "name": "KillScript Blinds",
+  "domain": "motion_blinds",
+  "name": "KillScript Motion Blinds",
   "codeowners": ["@killscript"],
   "config_flow": true,
   "dependencies": ["network"],
