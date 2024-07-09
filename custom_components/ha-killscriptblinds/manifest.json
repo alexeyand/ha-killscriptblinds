@@ -1,5 +1,5 @@
 {
-  "domain": "killscriptblinds",
+  "domain": "ha-killscriptblinds",
   "name": "KillScript Motion Blinds",
   "codeowners": ["@killscript"],
   "config_flow": true,
