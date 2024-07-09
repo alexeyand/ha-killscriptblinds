@@ -21,7 +21,7 @@
   "documentation": "https://www.home-assistant.io/integrations/motion_blinds",
   "iot_class": "local_push",
   "loggers": ["custom_components.killscriptblinds"],
-  "requirements": ["killscriptblinds @ git+https://github.com/alexeyand/killscriptblinds.git@main"],
+  "requirements": ["git+https://github.com/alexeyand/killscriptblinds.git@main#killscriptblinds==0.6.24"],
   "version": "0.6.24",
   "quality_scale": "Silver"
 }
