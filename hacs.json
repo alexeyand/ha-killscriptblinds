@@ -1,5 +1,4 @@
 {
   "name": "KillScript Motion Blinds",
-  "render_readme": true,
-  "homeassistant": "2022.8.0"
+  "domains": ["cover"]
 }
