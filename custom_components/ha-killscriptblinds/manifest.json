@@ -25,5 +25,5 @@
   "loggers": ["custom_components.killscriptblinds"],
   "requirements": ["git+https://github.com/alexeyand/killscriptblinds.git@main#killscriptblinds==0.6.24"],
   "version": "0.6.24",
-  "quality_scale": "Silver"
+  "quality_scale": "silver"
 }
