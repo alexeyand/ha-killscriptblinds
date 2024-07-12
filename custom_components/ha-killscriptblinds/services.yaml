@@ -1,6 +1,8 @@
 # Describes the format for available Motionblinds services
 
 set_absolute_position:
+  name: Set absolute position
+  description: Set absolute position.
   target:
     entity:
       integration: killscriptblinds
