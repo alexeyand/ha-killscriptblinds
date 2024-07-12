@@ -1,14 +1,14 @@
-# Describes the format for available Motionblinds services
-
 set_absolute_position:
   name: Set absolute position
-  description: Set absolute position.
+  description: Sets the absolute position of the cover.
   target:
     entity:
       integration: killscriptblinds
       domain: cover
   fields:
     absolute_position:
+      name: Absolute position
+      description: Absolute position to move to.
       required: true
       selector:
         number:
@@ -16,12 +16,16 @@ set_absolute_position:
           max: 100
           unit_of_measurement: "%"
     tilt_position:
+      name: Tilt position
+      description: Tilt position to move to.  
       selector:
         number:
           min: 0
           max: 100
           unit_of_measurement: "%"
     width:
+      name: Width
+      description: Specify the width that is covered, only for TDBU Combined entities.
       selector:
         number:
           min: 1
