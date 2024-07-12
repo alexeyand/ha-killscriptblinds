@@ -21,6 +21,5 @@
   "documentation": "https://github.com/alexeyand/ha-killscriptblinds",
   "iot_class": "local_push",  
   "issue_tracker": "https://github.com/alexeyand/ha-killscriptblinds/issues",
-  "requirements": ["git+https://github.com/alexeyand/killscriptblinds.git@main#killscriptblinds==0.6.24"],
   "version": "0.6.24"
 }
